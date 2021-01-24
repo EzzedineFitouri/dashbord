@@ -1,1 +1,11 @@
-theme: jekyll-theme-tactile
+# basic options
+title: Pharma Dashbord
+author: Ezzedine Fitouri
+email: your-email@domain.com
+description: A wonderful site
+Linkedin: jekyllrb
+github_username:  ezzzzzzz
+
+# Build settings
+markdown: kramdown
+theme: minima
